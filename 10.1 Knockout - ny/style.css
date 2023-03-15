@@ -1,0 +1,217 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(220, 237, 220);
+}
+
+div.wrapper {
+    width: 800px;
+    background:  rgb(131, 241, 131);
+    
+}
+
+div.wrapper main section {
+    color: rgb(0, 0, 0);
+    background: rgb(131, 241, 131);
+    height: 200px; 
+    font-size: 20px; 
+         
+ }
+
+ div.wrapper main section h1 {
+    margin-left: 270px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+   
+    
+  }
+
+  div.wrapper main section p {
+    margin: 10px;
+   
+  }
+
+ div.wrapper main section.select {
+    color: azure;
+    background: rgb(131, 241, 131);
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+ }
+
+ div.wrapper main section.select a.btn6 {
+    width: 60px;
+    background: rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.select a.btn6:hover{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.select a.btn6:focus{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.select a.btn7 {
+    width: 60px;
+    background:rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.select a.btn7:hover{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.select a.btn7:focus{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.select a.btn8 {
+    width: 60px;
+    background: rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.select a.btn8:hover{
+    background: rgb(0, 0, 0); 
+}
+div.wrapper main section.select a.btn8:focus{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.select a.btn9 {
+    width: 60px;
+    background: rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.select a.btn9:hover{
+    background: rgb(0, 0, 0); 
+    
+}
+div.wrapper main section.select a.btn9:focus{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.start a.btnrolldice {
+    width: 300px;
+    background: rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.start a.btnrolldice:hover{
+    background: rgb(0, 0, 0);
+}
+
+div.wrapper main section.total{
+    background: rgb(120, 120, 120); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+ div.wrapper main section.start {
+    background: rgb(131, 241, 131);
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ div.wrapper main section.total{
+    color: azure;
+    background:rgb(65, 65, 65);
+    height: 75px;
+    border-radius: 100px;
+ }
+
+ div.wrapper main section.gameover{
+    color: azure;
+    background: rgb(131, 241, 131);
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+ }
+
+ div.wrapper main section.newgame{
+    color: azure;
+    background: rgb(131, 241, 131);
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ div.wrapper main section.newgame a.btnnewgame{
+    width: 300px;
+    background: rgb(120, 120, 120);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+div.wrapper main section.newgame a.btnnewgame:hover{
+    background: rgb(0, 0, 0);
+}
+
+ div.wrapper footer {
+    height: 75px;
+    background: rgb(131, 241, 131);
+}
+
+div.wrapper footer img {
+    height: 300px;
+    width: 800px;   
+}
